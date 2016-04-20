@@ -11,7 +11,7 @@
     <form id="form1" runat="server">
     <div>
     Ubuntu  First Test
-    asp.net first run in ubuntu systemdddd.
+    asp.net first run in ubuntu systemddddd.
     </div>
     </form>
 </body>
